@@ -1,0 +1,1 @@
+const trash = document.querySelector(".delete");
