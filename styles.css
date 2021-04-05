@@ -19,3 +19,9 @@ input[type=text]:focus{
 .filtered{
     display: none !important; 
 }
+
+@media screen and (max-width: 430px){
+    .content{
+        padding: 3vh;
+    }
+}
